@@ -110,5 +110,5 @@ The four plots that you will need to construct are shown below.
 
 ### Plot 4
 
-![plot4](4.png) 
+![plot4](plot4.png) 
 
